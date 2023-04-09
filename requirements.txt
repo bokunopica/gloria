@@ -77,8 +77,8 @@ threadpoolctl==2.1.0
 tifffile==2021.1.14
 timm==0.4.12
 tokenizers==0.9.4
-torch==1.7.1
-torchvision==0.8.2
+torch==1.8.1
+torchvision==0.9.1
 tqdm==4.56.0
 transformers==4.2.1
 typing-extensions==3.7.4.3
